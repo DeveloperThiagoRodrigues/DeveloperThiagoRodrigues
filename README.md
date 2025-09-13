@@ -1,4 +1,4 @@
-## Opa, tudo certo? Eu sou o Thiago Karpovicz. Apaixonado por tecnologia!
+## Eai, tudo certo? Eu sou o Thiago Karpovicz. Apaixonado por tecnologia!
 
 Sou apaixonado por desenvolvimento e tecnologia.  
 Ao longo da minha trajetória, como locutor profissional no ramo do rádio estou em transição de carreira e estou estudando e aplicando conhecimentos em **HTML, CSS, JavaScript, React, React Native e MongoDB**. Atualmente, estou me aprofundando em **n8n** para automações e integração de sistemas.  
